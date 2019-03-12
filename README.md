@@ -1,3 +1,3 @@
-# Robotics-Projects
+# Projects
 
-These are the codes that I have written for my robotics projects.
+These are the codes that I have written for my different projects.

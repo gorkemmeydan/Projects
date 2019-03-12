@@ -1,1 +1,1 @@
-Codes about the control and video capture for an palleted unmanned vahicle robot.
+Codes about control and video capture for a palleted unmanned vehicle robot.
